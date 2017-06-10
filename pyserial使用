@@ -1,0 +1,3 @@
+pyserial  我的开发平台为windows10  发现不能用pip直接下载，虽然显示的成功，但程序运行时会出错
+在如下的路径下载gz文件，解压缩后 在安装的路径 python setup.py install  进行安装
+https://pypi.python.org/pypi/pyserial
